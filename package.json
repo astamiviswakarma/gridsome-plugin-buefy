@@ -13,7 +13,7 @@
   "author": "astamiviswakarma",
   "license": "MIT",
   "private": true,
-  "devDependencies": {
+  "dependencies": {
     "buefy": "^0.9.14"
   }
 }
