@@ -1,0 +1,19 @@
+{
+  "name": "gridsome-plugin-buefy",
+  "version": "1.0.0",
+  "main": "gridsome.client.js",
+  "files": [
+    "gridsome.client.js"
+  ],
+  "keywords": [
+    "buefy",
+    "gridsome",
+    "gridsome-plugin"
+  ],
+  "author": "astamiviswakarma",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "buefy": "^0.9.14"
+  }
+}
